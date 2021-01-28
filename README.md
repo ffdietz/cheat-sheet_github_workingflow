@@ -1,21 +1,21 @@
 # GITHUB WORKFLOW COMMARDS CHEATSHEET
 
-0. CREATE A REPO
+### 0. CREATE A REPO
 
   Two ways, your proper repository or create an organization:
   
-  0.1. USER PROFILE PAGE:
-    - Repositories
-    - NEW
-    -- Name your repo and get the url of it
+  ##### 0.1. USER PROFILE PAGE:
+  - Repositories tab
+  - NEW
+    - Name your repo and get the url
     
 
-  0.2. CREATE AN ORGANIZATION:
+  ##### 0.2. CREATE AN ORGANIZATION:
     - https://github.com/settings/organizations
     - New Organization
       - Set up your team
 
-1. UPLOAD THE MASTER FIRST COMMIT 
+### 1. UPLOAD THE MASTER FIRST COMMIT BY TERMINAL COMMANDS
     - git init
     - git add .
     - git commit -m "first commit"
