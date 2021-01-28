@@ -5,9 +5,9 @@
   Two ways, your proper repository or create an organization:
   
   ##### 0.1. USER PROFILE PAGE:
-  - Repositories tab
-  - NEW
-    - Name your repo and get the url
+    - Repositories tab
+    - NEW
+      - Name your repo and get the url
     
 
   ##### 0.2. CREATE AN ORGANIZATION:
