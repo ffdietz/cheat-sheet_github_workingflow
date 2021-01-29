@@ -1,4 +1,4 @@
-# GITHUB WORKFLOW COMMARDS CHEATSHEET
+# GITHUB WORKFLOW COMMANDS CHEATSHEET
 
 ### 0. CREATE A REPO
 
@@ -11,8 +11,8 @@
     
 
   ##### 0.2. CREATE AN ORGANIZATION:
-    - https://github.com/settings/organizations
-    - New Organization
+    - User profile menu / [Your organizations](https://github.com/settings/organizations)
+    - [New Organization](https://github.com/account/organizations/new)
       - Set up your team
 
 ### 1. UPLOAD THE MASTER FIRST COMMIT BY TERMINAL COMMANDS
