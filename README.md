@@ -4,16 +4,16 @@
 
   Two ways, your proper repository or create an organization:
   
-  ##### 0.1. USER PROFILE PAGE:
-  - Repositories tab
-  - [New](https://github.com/new)
-    - Name your repo and get the url
+##### 0.1. USER PROFILE PAGE:
+* Repositories tab
+* [New](https://github.com/new)
+  * Name your repo and get the url
       
-  ##### 0.2. CREATE AN ORGANIZATION
-  In user profile menu
-    * [Your organizations](https://github.com/settings/organizations)
-    * [New Organization](https://github.com/account/organizations/new)
-      * Set up your team
+##### 0.2. CREATE AN ORGANIZATION
+In user profile menu
+  * [Your organizations](https://github.com/settings/organizations)
+  * [New Organization](https://github.com/account/organizations/new)
+    * Set up your team
 
 ### 1. UPLOAD THE MASTER FIRST COMMIT BY TERMINAL COMMANDS
     * git init
