@@ -19,7 +19,7 @@ In user profile menu
   * git init
   * git add .
   * git commit -m "first commit"
-  * `git remote add origin **github-URL-repo**`
+  * `git remote add origin __github-URL-repo__`
   * git push origin master
 
   To create a local version
