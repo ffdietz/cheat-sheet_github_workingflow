@@ -16,11 +16,11 @@ In user profile menu
    * Set up your team
 
 ### 1. UPLOAD THE MASTER FIRST COMMIT BY TERMINAL COMMANDS
-    * git init
-    * git add .
-    * git commit -m "first commit"
-    * `git remote add origin github-URL-repo`
-    * git push origin master
+  * git init
+  * git add .
+  * git commit -m "first commit"
+  * `git remote add origin github-URL-repo`
+  * git push origin master
 
 
 3>  git clone projectURL                // Create a local master version without fork
