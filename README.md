@@ -8,14 +8,12 @@
     - Repositories tab
     - NEW
       - Name your repo and get the url
-    
-
+      
   ##### 0.2. CREATE AN ORGANIZATION
-  *
-    - User profile menu / [Your organizations](https://github.com/settings/organizations)
-    - [New Organization](https://github.com/account/organizations/new)
-      - Set up your team
-  *
+  In user profile menu
+    * [Your organizations](https://github.com/settings/organizations)
+    * [New Organization](https://github.com/account/organizations/new)
+      * Set up your team
 
 ### 1. UPLOAD THE MASTER FIRST COMMIT BY TERMINAL COMMANDS
     - git init
