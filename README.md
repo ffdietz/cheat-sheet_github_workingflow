@@ -15,13 +15,14 @@ In user profile menu
   * [New Organization](https://github.com/account/organizations/new)
    * Set up your team
 
-### 1. UPLOAD THE MASTER FIRST COMMIT BY TERMINAL COMMANDS
+### 1. UPLOAD THE MASTER FIRST COMMIT WITH TERMINAL COMMANDS
   * git init
   * git add .
   * git commit -m "first commit"
-  * `git remote add origin github-URL-repo`
+  * `git remote add origin **github-URL-repo**`
   * git push origin master
 
+  To create a local version
   * git clone projectURL                // Create a local master version without fork
   * git checkout -b <branch-name>       // Create a new branch and switch to it
   * git add .                           // Make some changes and then add the files and commit them:
