@@ -17,7 +17,7 @@ In user profile menu
 
 Then in the local code
 ### 1. UPLOAD THE MASTER FIRST COMMIT WITH TERMINAL COMMANDS
-  |git init                                | Initialize git files|
+  |git init|Initialize git files|
   |git add .                               | Storage the current changes|
   |git commit -m "first commit"            | Create a point of changes with description message|
   |`git remote add origin github-URL-repo` | Link the local git files with the online repository |
