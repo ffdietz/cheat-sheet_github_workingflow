@@ -29,18 +29,20 @@ With all this step you're creating the base code to start to working on.
 Ideally the *master* version it is a part of the code that you never modify
 unless you are sure of the changes you're makinge.
 To have a 'testing version' you need to create a *branch*
-Basically, a copy of you *master* where you do changes without affect the main code
+Basically, a copy of you *master* where you do changes without affect the main code.
 
-  To work in a local version
-  * git clone projectURL                // Create a local master version without fork
-  * git checkout -b <branch-name>       // Create a new branch and switch to it
-  * git add .                           // Make some changes and then add the files and commit them:
-  * git commit -m "commit message"      // Then the local branch is updated
-  * git push origin <branch-name>       // Upload the local branch version to the online repo
-  * GitHub repo >>> "New Pull Request"  // Compare and edit the changes with the master and save it
-  * git checkout master                 // To update the local version go to the local master
-  * git pull origin master              // Download the new master version to the local version 
-  * git checkout <branch-name>          // Come back to the pushed branch
-  * git merge master                    // Update the local branch with all the master version changes
+To work in a local version
+|Command | Description|
+|------|------|
+| git clone projectURL                | Create a local master version without fork
+| git checkout -b <branch-name>       | Create a new branch and switch to it
+* git add .                           | Make some changes and then add the files and commit them:
+* git commit -m "commit message"      | Then the local branch is updated
+* git push origin <branch-name>       | Upload the local branch version to the online repo
+* GitHub repo >>> "New Pull Request"  | Compare and edit the changes with the master and save it
+* git checkout master                 | To update the local version go to the local master
+* git pull origin master              | Download the new master version to the local version 
+* git checkout <branch-name>          | Come back to the pushed branch
+* git merge master                    | Update the local branch with all the master version changes
 
 ***** git reset --hard                  // to restart from the last commited version
