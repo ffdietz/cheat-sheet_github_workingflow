@@ -17,11 +17,11 @@ In user profile menu
 
 Then in the local code
 ### 1. UPLOAD THE MASTER FIRST COMMIT WITH TERMINAL COMMANDS
-  git init                                | Initialize git files
-  git add .                               | Storage the current changes
-  git commit -m "first commit"            | Create a point of changes with description message
-  `git remote add origin github-URL-repo` | Link the local git files with the online repository 
-  git push origin master                  | Upload to the master
+  |git init                                | Initialize git files|
+  |git add .                               | Storage the current changes|
+  |git commit -m "first commit"            | Create a point of changes with description message|
+  |`git remote add origin github-URL-repo` | Link the local git files with the online repository |
+  |git push origin master                  | Upload to the master|
 
 With all this step you're creating the base code to start to working on.
 Ideally the *master* version it is a part of the code that you never modify
